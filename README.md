@@ -61,7 +61,7 @@ Thanks to DolOffer for supporting this project!
 
 DolOffer is a platform focused on digital product recommendations and discount sharing, helping users quickly discover worthwhile tools, services, and limited-time deals. The platform offers a variety of popular subscription services, including YouTube Premium, Claude, ChatGPT Plus, Spotify, and Apple Music, with prices as low as 30% of the official price or even less.
 
-Register now through this exclusive link（https://doloffer.com）, and enter the promo code AI8888 when topping up to enjoy an additional 10% discount.
+Register now through this exclusive link https://doloffer.com/en/, and enter the promo code AI8888 when topping up to enjoy an additional 10% discount.
 
 ##  Model Behavior & Limitations
 
