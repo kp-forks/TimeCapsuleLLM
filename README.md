@@ -51,6 +51,20 @@ We use the server to discuss ideas, share progress, and connect with others buil
 
 ##  Model Behavior & Limitations
 
+## Sponsors
+
+<div align="center">
+  <a href="https://doloffer.com">
+    <img src="logo.png" width="500">
+  </a>
+</div>
+
+Thanks to DolOffer for supporting this project!
+
+DolOffer is a platform focused on digital product recommendations and discount sharing, helping users quickly discover worthwhile tools, services, and limited-time deals. The platform offers a variety of popular subscription services, including YouTube Premium, Claude, ChatGPT Plus, Spotify, and Apple Music, with prices as low as 30% of the official price or even less. All services are genuine and stable, with worry-free after-sales support.
+
+Register now through our exclusive link（https://doloffer.com）, and enter the promo code AI8888 when topping up to enjoy an additional 10% discount.
+
 ### **v0**  
 
 Early prompts show the model responding with 1800's language and behavior. 
