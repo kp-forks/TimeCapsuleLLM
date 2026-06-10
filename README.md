@@ -25,7 +25,7 @@ v2 built on llamaforcausallm
 ## Research Status
 This project was initiated and developed independently.
 
-It is currently conducted under academic supervision, with an affiliated research collaboration at Muhlenberg College.
+It is currently conducted under academic supervision, with an affiliated research collaboration at Muhlenberg College & Georgia State University.
 
 ## Citation
 
@@ -136,7 +136,7 @@ Trained to 182K steps
 - Scaling dataset size and geographic coverage
 - Expanding beyond London to additional cities
 
-The work is being carried out in collaboration with researchers from University College London (UCL) and additional institutional involvement is under discussion. 
+The work is being carried out in collaboration with researchers from Muhlenberg College & Georgia State University. 
 
 
 ##  Datasets
