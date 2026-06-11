@@ -245,6 +245,9 @@ GPU: H100 SXM rented
 
 - **[Ranke-4B](https://github.com/DGoettlich/history-llms/blob/main/ranke-4b/prerelease_notes.md)** 
   - a family of 4B parameter LLMs based on the Qwen3 architecture trained from scratch on 80B tokens of historical data up to knowledge-cutoffs 1913,1929,1933,1939,1946.
+ 
+- **[TypewriterLM](https://huggingface.co/typewriter-ai/typewriter-1913-7B-base)**
+  - a 7.24B History language model (LM) pretrained exclusively on English text predating 1913. Created by researchers from University of Waterloo, Adelaide University, University of Oxford, and University College London. [Link to paper](https://arxiv.org/abs/2606.02991)
 
 - **[MondadGPT](https://huggingface.co/Pclanglais/MonadGPT)** 
   - MonadGPT is a finetune of Mistral-Hermes 2 on 11,000 early modern texts in English, French and Latin, mostly coming from EEBO and Gallica.
